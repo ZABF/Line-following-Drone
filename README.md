@@ -69,13 +69,19 @@ The system integration flowchart is as follows:
 ## Video Demonstration
 Watch the video below to see the demonstration of **Line-following Drone**
 
-Video 1: Hovering, automatic landing during communication loss, and e-stop demonstration  
+Video 1: Hovering, automatic landing during communication loss, and e-stop demonstration
+
+https://github.com/user-attachments/assets/c0d9c753-097c-4395-b13e-223ef031bc71  
 
 
 Video 2: Obstacle detection demonstration  
 
+https://github.com/user-attachments/assets/7b23d07d-a837-4638-974f-ef2f984fbad7  
 
-Video 3: Line-following demonstration  
+
+Video 3: Line-following demonstration   
+
+https://github.com/user-attachments/assets/df2ff14a-9840-47a3-a134-948088ff9ea1  
 
 
 ## Future Improvements
@@ -88,3 +94,15 @@ Video 3: Line-following demonstration
 For more information or to collaborate, please contact:
 - **Email**: chenruifeng02@outlook.com
 - **LinkedIn**: [Chenrui Feng](https://www.linkedin.com/in/chenrui-feng-244330335/)
+
+
+
+
+
+
+
+
+
+
+
+
